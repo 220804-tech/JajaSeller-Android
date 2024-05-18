@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "284366139562",
+    "firebase_url": "https://jajachat-e052d-default-rtdb.firebaseio.com",
+    "project_id": "jajachat-e052d",
+    "storage_bucket": "jajachat-e052d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284366139562:android:70b0c4f804ad058ce1a0d3",
+        "android_client_info": {
+          "package_name": "com.jaja.buyer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284366139562-a5men62obgi9eqd8f0a9j7ipa91f6lal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaja.buyer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "284366139562-ch0s8vfidtquiv7dvt6dlkrusnb6vpue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaja.buyer",
+            "certificate_hash": "9330dd5bcfa769ffbadd800de5dea84fe155faab"
+          }
+        },
+        {
+          "client_id": "284366139562-sb5c78e2temmgbgqbtfgteonp0r70eo9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaja.buyer",
+            "certificate_hash": "b8e88dd2c8a0946cacbf09cc6960b3a02828b1c3"
+          }
+        },
+        {
+          "client_id": "284366139562-tnj3641sdb4ia9om7bcp25vh3qn5vvo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZOcKNXvDumSqi4LPt0YKJ5sgLEY-lAu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284366139562-tnj3641sdb4ia9om7bcp25vh3qn5vvo8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284366139562-38kk2k0vfqh9g3b29mc3kabufk04026c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jaja.customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284366139562:android:9e8c5931ad5fca7be1a0d3",
+        "android_client_info": {
+          "package_name": "com.jajaidbuyer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284366139562-0lhgbrffns3hrff0nmtko575pkiuakh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jajaidbuyer",
+            "certificate_hash": "9330dd5bcfa769ffbadd800de5dea84fe155faab"
+          }
+        },
+        {
+          "client_id": "284366139562-141o9p7jpgpcnomjiu5ph34rilpt8vko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jajaidbuyer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "284366139562-nq5lrauu6io7dv1vkkbhvfbkuccfvrs5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jajaidbuyer",
+            "certificate_hash": "2fcd2742b90603b77806debbaf386bacff25853c"
+          }
+        },
+        {
+          "client_id": "284366139562-tnj3641sdb4ia9om7bcp25vh3qn5vvo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZOcKNXvDumSqi4LPt0YKJ5sgLEY-lAu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284366139562-tnj3641sdb4ia9om7bcp25vh3qn5vvo8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284366139562-38kk2k0vfqh9g3b29mc3kabufk04026c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jaja.customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284366139562:android:76e15d94b26fef1be1a0d3",
+        "android_client_info": {
+          "package_name": "com.seller.jaja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284366139562-gnjh0vv99s6hr9vrl2feu7imscjjfioe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seller.jaja",
+            "certificate_hash": "c195622973e88832ef62bc2a88aa5b9576d121f4"
+          }
+        },
+        {
+          "client_id": "284366139562-il8hvfbi2dfvd1t0n39mouf3lc0t6tnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seller.jaja",
+            "certificate_hash": "3dace1e6aa29103c817d28be03e372e025fa99df"
+          }
+        },
+        {
+          "client_id": "284366139562-k6opp1cdlefrseb113351t2l14v27c5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seller.jaja",
+            "certificate_hash": "3d73bc057ef53d202015c8f3b8c0379bd28ca0e3"
+          }
+        },
+        {
+          "client_id": "284366139562-tnj3641sdb4ia9om7bcp25vh3qn5vvo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZOcKNXvDumSqi4LPt0YKJ5sgLEY-lAu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284366139562-tnj3641sdb4ia9om7bcp25vh3qn5vvo8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284366139562-38kk2k0vfqh9g3b29mc3kabufk04026c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jaja.customer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

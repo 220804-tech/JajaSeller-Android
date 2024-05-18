@@ -1,0 +1,6 @@
+module Pods_seller {
+  umbrella header "Pods-seller-umbrella.h"
+
+  export *
+  module * { export * }
+}

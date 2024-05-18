@@ -1,0 +1,4 @@
+Seller yang baru daftar, secara default akan mendapat level SILVER,
+Seller yang berhasil menyelesaikan misi (10X transaksi dan memiliki rating minimal 4) bisa langsung upgrade ke level Gold dengan biaya 25.000
+Di level GOLD terbuka beberapa feature seperti (seller bisa aktifkan program free jaja ongkir dengan syarat ketentuan kena potongan 2% setiap transaksi, menaikan pengunjung toko(do promosikan))
+Seller bisa mengupgrade toko ke level PLATINUM
